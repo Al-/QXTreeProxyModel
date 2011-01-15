@@ -1,0 +1,13 @@
+release/
+debug/
+ui_*.cpp
+ui_*.h
+moc_*.h
+moc_*.cpp
+Makefile
+Makefile.Debug
+Makefile.Release
+*.pro.user
+*.pro.user.*
+QXTreeProxyModelTest
+*.o
