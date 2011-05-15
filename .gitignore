@@ -9,5 +9,6 @@ Makefile.Debug
 Makefile.Release
 *.pro.user
 *.pro.user.*
-QXTreeProxyModelTest
+QXTreeProxyModel
 *.o
+testdb.db
